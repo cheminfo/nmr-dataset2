@@ -33,7 +33,7 @@ for (const dir of dirs) {
 }
 
 writeFileSync(
-  join(DATA_DIR, 'toc.json'),
+  join(DATA_DIR, 'toc-new.json'),
   JSON.stringify(toc, undefined, 2),
   'utf8',
 );
