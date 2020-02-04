@@ -16,7 +16,7 @@
         "file": "./99-91-2/1h.json",
         "title": "Exercise 23",
         "view": "Exercise"
-      }
+      },
       {
         "file": "./108-44-1/1h.json",
         "title": "Exercise 4",
@@ -130,7 +130,7 @@
         "view": "Exercise"
       }
     ]
-  },
+  }
 
 
 ]
