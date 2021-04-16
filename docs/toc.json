@@ -5,6 +5,7 @@
       {
         "file": "./108-98-5/1h.json",
         "title": "Exercise 1",
+        "selected": true,
         "view": "Exercise"
       },
       {
@@ -131,6 +132,4 @@
       }
     ]
   }
-
-
 ]
