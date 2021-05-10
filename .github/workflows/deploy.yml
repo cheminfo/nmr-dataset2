@@ -18,7 +18,7 @@ jobs:
         run: |
           npm i nmrium-cli --global
           npx nmrium deleteJSONs
-          npx nmrium toc
+          npx nmrium createExercisesTOC
           npx nmrium deleteStructures
           npx nmrium appendLinks --baseURL "https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc="
           git status
