@@ -12,10 +12,10 @@ This text may be replaced by the description of the exercise.
 
 ## Link to all the exercises
 
-[https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc.json](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc.json)
+[https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc.json](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc.json)
 
 Links to series
 
-* [Simple](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc_01_simple.json)
-* [Medium](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc_02_medium.json)
-* [Advanced](https://deploy-preview-106--nmrium-org.netlify.app/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc_03_advanced.json)
+* [Simple](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc_01_simple.json)
+* [Medium](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc_02_medium.json)
+* [Advanced](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset2/toc_03_advanced.json)
