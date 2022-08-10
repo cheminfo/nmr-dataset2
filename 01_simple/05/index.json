@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./01_simple/05/1h.dx"
+        "jcampURL": "./1h.dx"
       },
       "display": {
         "name": ""
