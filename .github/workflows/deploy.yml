@@ -22,10 +22,12 @@ jobs:
           nmrium createExercisesTOC
           nmrium deleteStructures
           nmrium appendLinks
-          git status
-          git remote -v
       - name: push to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: .
+          clean: true
+          single-commit: true
+          commit-message: "Deployed using GitHub Actions"
+          force: true
