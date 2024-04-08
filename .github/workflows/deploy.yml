@@ -14,6 +14,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Set old branch name
+        run: echo "BRANCH=$(date +'gh-pages_%Y-%m-%d_%H.%M.%S')" >> $GITHUB_ENV
+      - name: Backup gh-pages
+        run: |
+          git checkout gh-pages
+          git pull
+          git checkout -b $BRANCH
+          git push origin $BRANCH
+          git checkout main
       - name: install nmrium and create toc
         run: |
           npm i nmrium-cli --global
@@ -23,6 +32,7 @@ jobs:
           nmrium deleteStructures
           nmrium appendLinks
       - name: push to gh-pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: .
+        run: |
+          git add .
+          git commit -m "Update gh-pages"
+          git push origin gh-pages --force
