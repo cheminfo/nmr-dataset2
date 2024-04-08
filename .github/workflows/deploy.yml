@@ -14,7 +14,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Set old branch name
+      - name: Set old branch name with dates
         run: echo "BRANCH=$(date +'gh-pages_%Y-%m-%d_%H.%M.%S')" >> $GITHUB_ENV
       - name: Backup gh-pages
         run: |
