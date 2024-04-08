@@ -1,0 +1,205 @@
+[
+  {
+    "groupName": "Simple",
+    "folderName": "01_simple",
+    "children": [
+      {
+        "id": "wPtyoG4hz8l+ae1agnlzfpcU73A=",
+        "mf": "C6H6S",
+        "idCodeHash": "cf64a319991a07a31375a90df522b35c",
+        "idCode": "gOpH@DILkW@@@@",
+        "file": "./01_simple/01/index.json",
+        "title": "Exercise 1",
+        "selected": true
+      },
+      {
+        "id": "8Fr0n7mallxJd0SJcAlGVICwE0g=",
+        "mf": "C8H11N",
+        "idCodeHash": "613ac6e33056bf70664ddc94da4c13bd",
+        "idCode": "dif@@@rRJEKaj@@@@",
+        "file": "./01_simple/02/index.json",
+        "title": "Exercise 2"
+      },
+      {
+        "id": "vTRN9rJekjPKKfq1GObNUGJbl6A=",
+        "mf": "C8H7OCl",
+        "idCodeHash": "dc35c1e836ea330db671863e05c0da7e",
+        "idCode": "deTH`ABHRYWZf`@f@@",
+        "file": "./01_simple/03/index.json",
+        "title": "Exercise 3"
+      },
+      {
+        "id": "QKdoxFlL8WFlZ07FjT3hemRtmlk=",
+        "mf": "C7H9N",
+        "idCodeHash": "08a8b674b4cf5129de96cd6c029c129c",
+        "idCode": "daF@@@RYVih@H@@",
+        "file": "./01_simple/04/index.json",
+        "title": "Exercise 4"
+      },
+      {
+        "id": "/8wYHd5AKu46RAufqZPdH554zKo=",
+        "mf": "C8H10O",
+        "idCodeHash": "86200d52beb93183ee69cb115025e233",
+        "idCode": "didH@@RUe^Fh@@@@",
+        "file": "./01_simple/05/index.json",
+        "title": "Exercise 5"
+      },
+      {
+        "id": "DycsUDr5lppcvda6Kj9AHWAOUuU=",
+        "mf": "C10H14",
+        "idCodeHash": "b945693645bc1297a2c54fbdaadd69f2",
+        "idCode": "deT@@DjUijP`j@@@",
+        "file": "./01_simple/06/index.json",
+        "title": "Exercise 6"
+      },
+      {
+        "id": "c5o/ApYq6XwTSQjDsQtD9R9TxyY=",
+        "mf": "C6H10O3",
+        "idCodeHash": "bb3d5ac01b4993c99a5d27d993c4ed56",
+        "idCode": "diDL@@SdfUYji`@",
+        "file": "./01_simple/07/index.json",
+        "title": "Exercise 7"
+      },
+      {
+        "id": "8RrUbSOPM0qBw0r4MEGqxqHmFcg=",
+        "mf": "C7H12O2",
+        "idCodeHash": "1be8395dd3ed7c86ab10d8bdd851f4ce",
+        "idCode": "diDD@@QIeZZfh@@",
+        "file": "./01_simple/08/index.json",
+        "title": "Exercise 8"
+      },
+      {
+        "id": "DzIiYCV2Bo6pCTTup+V2ie0xHMQ=",
+        "mf": "C10H12O",
+        "idCodeHash": "b7442531a558716254877b3d125317c9",
+        "idCode": "dmtH@@RYe_FV``H@@",
+        "file": "./01_simple/09/index.json",
+        "title": "Exercise 9"
+      },
+      {
+        "id": "/IVY6eJ0tL/wzR4l+CxlV26I5LA=",
+        "mf": "C12H14O4",
+        "idCodeHash": "246dd874e945ae7eb90200754a167f16",
+        "idCode": "f`a@P@@Ht[HheDhmD\\jsTE@qP@@",
+        "file": "./01_simple/10/index.json",
+        "title": "Exercise 10"
+      }
+    ]
+  },
+  {
+    "groupName": "Medium",
+    "folderName": "02_medium",
+    "children": [
+      {
+        "id": "VAu1mZlJAN3q4H8fNtgC6ek2Hec=",
+        "mf": "C9H8O",
+        "idCodeHash": "0dafb942ec98fc5ba03dd54c1a43594b",
+        "idCode": "deTH@@RUYTYY`@@aH",
+        "file": "./02_medium/11/index.json",
+        "title": "Exercise 11"
+      },
+      {
+        "id": "Qq771wejWSeTPfHoWeWwyotWM94=",
+        "mf": "C9H12",
+        "idCodeHash": "2b3467c0bd882c84bd943642c33d4808",
+        "idCode": "did@@DjWffB@h@@",
+        "file": "./02_medium/12/index.json",
+        "title": "Exercise 12"
+      },
+      {
+        "id": "pta5+HqXn0iT2L6Nb4AL3XxiOHs=",
+        "mf": "C9H12",
+        "idCodeHash": "786e63516cf61977ecea7a43e61d9070",
+        "idCode": "did@@DjUfaBB`@@",
+        "file": "./02_medium/13/index.json",
+        "title": "Exercise 13"
+      },
+      {
+        "id": "ih4e3na2YARrRJbI1wI7IJdCBmE=",
+        "mf": "C8H14O3",
+        "idCodeHash": "de429c7ab32689020be84d29a02a7d11",
+        "idCode": "dmTL@@SlbbRTJZjZ`@",
+        "file": "./02_medium/14/index.json",
+        "title": "Exercise 14"
+      },
+      {
+        "id": "YCfW4NJCT7Oqx94lnMLaxS8BhD0=",
+        "mf": "C9H12O2",
+        "idCodeHash": "185a6b2c14b13a3de39ad1a13f923442",
+        "idCode": "dmtD@@qJ[[VUjh@@@@",
+        "file": "./02_medium/15/index.json",
+        "title": "Exercise 15"
+      },
+      {
+        "id": "w6surITh2DGvqEL7gKvYalAxV6w=",
+        "mf": "C7H14O2",
+        "idCodeHash": "764bb8ab3c90b503156218d84bfe58be",
+        "idCode": "diDD@@QIgVZjh@@",
+        "file": "./02_medium/16/index.json",
+        "title": "Exercise 16"
+      },
+      {
+        "id": "BJLWHB7sP36mLWBYZHCgc/M6ezA=",
+        "mf": "C7H7NO2",
+        "idCodeHash": "022a48428752f1f4063dbbbc048c55c6",
+        "idCode": "deVDAHAHeNR[fTYZ@`@@",
+        "file": "./02_medium/17/index.json",
+        "title": "Exercise 17"
+      },
+      {
+        "id": "E2KmFi+i58iYOCTtKyqg+/O06Fk=",
+        "mf": "C8H9NO2",
+        "idCodeHash": "5cc8411f4b7f4a4c1bd06eed2825e937",
+        "idCode": "dmvD@NADfVyyUjB@@@",
+        "file": "./02_medium/18/index.json",
+        "title": "Exercise 18"
+      },
+      {
+        "id": "ezTi5o90fpociRbNW70np/+HNEk=",
+        "mf": "C16H22O4",
+        "idCodeHash": "d4e61ddb7a9c03e5fd14337341a51227",
+        "idCode": "fbe@P@@HM[HheDhdhmbdisTEALUT@@@",
+        "file": "./02_medium/19/index.json",
+        "title": "Exercise 19"
+      }
+    ]
+  },
+  {
+    "groupName": "Advanced",
+    "folderName": "03_advanced",
+    "children": [
+      {
+        "id": "Bmrn6ANBlKSljNQ+uHgO0vB5ooo=",
+        "mf": "C7H14O2",
+        "idCodeHash": "36e6f51d9a8e482c0b264b1154ee1e3a",
+        "idCode": "diDD@@QIgUZjh@@",
+        "file": "./03_advanced/20/index.json",
+        "title": "Exercise 20"
+      },
+      {
+        "id": "CysBfZuyv490cIkOvnNYes4Airw=",
+        "mf": "C10H14O",
+        "idCodeHash": "6f86e1fd975d2ffcf12be5e4294f3535",
+        "idCode": "dmtH@@rJQFIJUjh@@@@",
+        "file": "./03_advanced/21/index.json",
+        "title": "Exercise 21"
+      },
+      {
+        "id": "TooTMOXbvnVpyMsa3uGrFOcxxEk=",
+        "mf": "C7H12O2",
+        "idCodeHash": "adbfcdd0ac9549d5ac683fafc8313217",
+        "idCode": "diDD@@qJYWjjx@@",
+        "file": "./03_advanced/22/index.json",
+        "title": "Exercise 22"
+      },
+      {
+        "id": "Av9It7YW/r9yGCyzc0IEwi7iaNg=",
+        "mf": "C3H6O",
+        "idCodeHash": "7fa7d7b32a47c289c25df930826901de",
+        "idCode": "gBQ@@eLUT@@",
+        "file": "./03_advanced/23/index.json",
+        "title": "Exercise 23"
+      }
+    ]
+  }
+]

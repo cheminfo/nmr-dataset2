@@ -1,0 +1,75 @@
+[
+  {
+    "id": "VAu1mZlJAN3q4H8fNtgC6ek2Hec=",
+    "mf": "C9H8O",
+    "idCodeHash": "0dafb942ec98fc5ba03dd54c1a43594b",
+    "idCode": "deTH@@RUYTYY`@@aH",
+    "file": "./02_medium/11/index.json",
+    "title": "Exercise 11",
+    "selected": true
+  },
+  {
+    "id": "Qq771wejWSeTPfHoWeWwyotWM94=",
+    "mf": "C9H12",
+    "idCodeHash": "2b3467c0bd882c84bd943642c33d4808",
+    "idCode": "did@@DjWffB@h@@",
+    "file": "./02_medium/12/index.json",
+    "title": "Exercise 12"
+  },
+  {
+    "id": "pta5+HqXn0iT2L6Nb4AL3XxiOHs=",
+    "mf": "C9H12",
+    "idCodeHash": "786e63516cf61977ecea7a43e61d9070",
+    "idCode": "did@@DjUfaBB`@@",
+    "file": "./02_medium/13/index.json",
+    "title": "Exercise 13"
+  },
+  {
+    "id": "ih4e3na2YARrRJbI1wI7IJdCBmE=",
+    "mf": "C8H14O3",
+    "idCodeHash": "de429c7ab32689020be84d29a02a7d11",
+    "idCode": "dmTL@@SlbbRTJZjZ`@",
+    "file": "./02_medium/14/index.json",
+    "title": "Exercise 14"
+  },
+  {
+    "id": "YCfW4NJCT7Oqx94lnMLaxS8BhD0=",
+    "mf": "C9H12O2",
+    "idCodeHash": "185a6b2c14b13a3de39ad1a13f923442",
+    "idCode": "dmtD@@qJ[[VUjh@@@@",
+    "file": "./02_medium/15/index.json",
+    "title": "Exercise 15"
+  },
+  {
+    "id": "w6surITh2DGvqEL7gKvYalAxV6w=",
+    "mf": "C7H14O2",
+    "idCodeHash": "764bb8ab3c90b503156218d84bfe58be",
+    "idCode": "diDD@@QIgVZjh@@",
+    "file": "./02_medium/16/index.json",
+    "title": "Exercise 16"
+  },
+  {
+    "id": "BJLWHB7sP36mLWBYZHCgc/M6ezA=",
+    "mf": "C7H7NO2",
+    "idCodeHash": "022a48428752f1f4063dbbbc048c55c6",
+    "idCode": "deVDAHAHeNR[fTYZ@`@@",
+    "file": "./02_medium/17/index.json",
+    "title": "Exercise 17"
+  },
+  {
+    "id": "E2KmFi+i58iYOCTtKyqg+/O06Fk=",
+    "mf": "C8H9NO2",
+    "idCodeHash": "5cc8411f4b7f4a4c1bd06eed2825e937",
+    "idCode": "dmvD@NADfVyyUjB@@@",
+    "file": "./02_medium/18/index.json",
+    "title": "Exercise 18"
+  },
+  {
+    "id": "ezTi5o90fpociRbNW70np/+HNEk=",
+    "mf": "C16H22O4",
+    "idCodeHash": "d4e61ddb7a9c03e5fd14337341a51227",
+    "idCode": "fbe@P@@HM[HheDhdhmbdisTEALUT@@@",
+    "file": "./02_medium/19/index.json",
+    "title": "Exercise 19"
+  }
+]
