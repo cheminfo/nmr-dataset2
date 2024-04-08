@@ -18,6 +18,7 @@ jobs:
         run: echo "BRANCH=$(date +'gh-pages_%Y-%m-%d_%H.%M.%S')" >> $GITHUB_ENV
       - name: Backup gh-pages
         run: |
+          git fetch
           git checkout gh-pages
           git pull
           git checkout -b $BRANCH
