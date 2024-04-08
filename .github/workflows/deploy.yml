@@ -34,6 +34,8 @@ jobs:
           nmrium appendLinks
       - name: push to gh-pages
         run: |
+          git config --global user.email "info@nmrium.org"
+          git config --global user.name "NMRium"
           git add .
           git commit -m "Update gh-pages"
           git push origin gh-pages --force
