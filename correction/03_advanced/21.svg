@@ -1,0 +1,41 @@
+<svg id="mol21" xmlns="http://www.w3.org/2000/svg" version="1.1" width="126px" height="79px" viewBox="91 57 126 79">
+  <style> text {font-family: sans-serif;} #mol21 { pointer-events:none; } #mol21 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+  <text x="187.73" y="76.27" stroke="none" font-size="14" fill="rgb(255,13,13)">O</text>
+  <text x="198.62" y="76.27" stroke="none" font-size="14" fill="rgb(255,13,13)">H</text>
+  <line x1="118.82" y1="80.39" x2="139.61" y2="92.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="119.24" y1="84.79" x2="135.59" y2="94.23" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="118.82" y1="128.39" x2="139.61" y2="116.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="119.24" y1="123.99" x2="135.59" y2="114.55" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="98.04" y1="116.39" x2="98.04" y2="92.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="101.64" y1="113.83" x2="101.64" y2="94.95" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="160.39" y1="80.39" x2="181.18" y2="92.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="189.14" y1="78.61" x2="181.18" y2="92.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="139.61" y1="92.39" x2="160.39" y2="80.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="201.96" y1="104.39" x2="181.18" y2="92.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="169.18" y1="113.18" x2="181.18" y2="92.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="139.61" y1="116.39" x2="139.61" y2="92.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="98.04" y1="92.39" x2="118.82" y2="80.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="98.04" y1="116.39" x2="118.82" y2="128.39" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line id="mol21:Bond:5" class="event" x1="118.82" y1="80.39" x2="139.61" y2="92.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:7" class="event" x1="118.82" y1="128.39" x2="139.61" y2="116.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:10" class="event" x1="98.04" y1="116.39" x2="98.04" y2="92.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:0" class="event" x1="160.39" y1="80.39" x2="181.18" y2="92.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:1" class="event" x1="193.18" y1="71.61" x2="181.18" y2="92.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:2" class="event" x1="139.61" y1="92.39" x2="160.39" y2="80.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:3" class="event" x1="201.96" y1="104.39" x2="181.18" y2="92.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:4" class="event" x1="169.18" y1="113.18" x2="181.18" y2="92.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:6" class="event" x1="139.61" y1="116.39" x2="139.61" y2="92.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:8" class="event" x1="98.04" y1="92.39" x2="118.82" y2="80.39" stroke-width="8" opacity="0" />
+  <line id="mol21:Bond:9" class="event" x1="98.04" y1="116.39" x2="118.82" y2="128.39" stroke-width="8" opacity="0" />
+  <circle id="mol21:Atom:0" class="event" cx="181.18" cy="92.39" r="8" opacity="0" />
+  <circle id="mol21:Atom:1" class="event" cx="160.39" cy="80.39" r="8" opacity="0" />
+  <circle id="mol21:Atom:2" class="event" cx="193.18" cy="71.61" r="8" opacity="0" />
+  <circle id="mol21:Atom:3" class="event" cx="139.61" cy="92.39" r="8" opacity="0" />
+  <circle id="mol21:Atom:4" class="event" cx="201.96" cy="104.39" r="8" opacity="0" />
+  <circle id="mol21:Atom:5" class="event" cx="169.18" cy="113.18" r="8" opacity="0" />
+  <circle id="mol21:Atom:6" class="event" cx="118.82" cy="80.39" r="8" opacity="0" />
+  <circle id="mol21:Atom:7" class="event" cx="139.61" cy="116.39" r="8" opacity="0" />
+  <circle id="mol21:Atom:8" class="event" cx="118.82" cy="128.39" r="8" opacity="0" />
+  <circle id="mol21:Atom:9" class="event" cx="98.04" cy="92.39" r="8" opacity="0" />
+  <circle id="mol21:Atom:10" class="event" cx="98.04" cy="116.39" r="8" opacity="0" />
+</svg>
