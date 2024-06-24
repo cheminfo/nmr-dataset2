@@ -30,7 +30,8 @@ jobs:
         run: |
           npm i nmrium-cli --global
           nmrium deleteJSONs
-          nmrium createExercisesTOC -i true
+          nmrium createExercisesTOC -i true -s true
+          nmrium createExercisesCorrection
           nmrium deleteStructures
           nmrium appendLinks
       - name: push to gh-pages
